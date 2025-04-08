@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-qy-#204nu0(+fa^4p5wv4!(&xnuv@88$k!c^(9lmz1_0j8yrc%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'verbose-journey-rpgr74x77jj3pw9p-8000.app.github.dev']
 
 
 # Application definition
